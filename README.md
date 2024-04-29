@@ -1,6 +1,6 @@
 <h1>Stop Watch</h1> 
 
-**Web link** - https://pranjal Vishwakarma.github.io/stopwatch/
+**Web link** - https://pranjalVishwakarma.github.io/stopwatch/
 
 - **Time** is the most essential part of everyone's life and keeping track of this time is equally important.
   <br>
